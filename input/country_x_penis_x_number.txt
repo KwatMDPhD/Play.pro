@@ -1,0 +1,90 @@
+# https://www.worlddata.info
+Country	Erect length (cm)	Body size (m)	Percentage of height
+Ecuador	17.61	1.67	10.54
+Cameroon	16.67	1.71	9.75
+Bolivia	16.51	1.68	9.84
+Sudan	16.47	1.71	9.63
+Haiti	16.01	1.72	9.32
+Senegal	15.89	1.75	9.09
+Gambia	15.88	1.68	9.47
+Cuba	15.87	1.73	9.16
+Netherlands	15.87	1.84	8.65
+Zambia	15.78	1.67	9.45
+France	15.74	1.78	8.83
+Angola	15.73	1.68	9.38
+Canada	15.71	1.78	8.80
+Egypt	15.69	1.73	9.08
+Zimbabwe	15.68	1.70	9.23
+Georgia	15.61	1.75	8.92
+Paraguay	15.53	1.73	8.97
+Chad	15.39	1.71	9.01
+Italy	15.35	1.74	8.81
+Central African Republic	15.33	1.68	9.11
+Colombia	15.26	1.71	8.91
+Ivory Coast	15.22	1.68	9.07
+Brazil	15.22	1.75	8.69
+Sweden	15.08	1.80	8.36
+Bulgaria	15.02	1.73	8.66
+Costa Rica	15.01	1.74	8.64
+Honduras	15.00	1.69	8.87
+Hungary	14.99	1.76	8.50
+Mexico	14.92	1.70	8.78
+Denmark	14.88	1.82	8.19
+Argentina	14.88	1.74	8.54
+El Salvador	14.88	1.70	8.75
+Serbia	14.87	1.80	8.24
+Belgium	14.77	1.79	8.25
+Croatia	14.77	1.81	8.18
+Latvia	14.69	1.80	8.16
+Belarus	14.63	1.78	8.21
+Chile	14.59	1.73	8.46
+Austria	14.53	1.78	8.15
+Germany	14.52	1.80	8.07
+Algeria	14.49	1.74	8.34
+Democratic Republic of the Congo	14.48	1.68	8.64
+Australia	14.46	1.79	8.10
+Nigeria	14.38	1.70	8.47
+Switzerland	14.35	1.79	8.04
+Norway	14.34	1.80	7.95
+Poland	14.29	1.80	7.93
+Albania	14.19	1.74	8.17
+Cape Verde	14.05	1.75	8.04
+New Zealand	13.99	1.78	7.88
+North Macedonia	13.98	1.76	7.95
+Ukraine	13.97	1.80	7.75
+Spain	13.85	1.76	7.88
+Finland	13.77	1.80	7.64
+Libya	13.74	1.75	7.84
+Azerbaijan	13.72	1.73	7.92
+India	13.71	1.66	8.28
+Afghanistan	13.69	1.68	8.16
+Israel	13.60	1.76	7.75
+United States	13.58	1.77	7.68
+Japan	13.56	1.72	7.90
+Turkmenistan	13.48	1.73	7.78
+Venezuela	13.33	1.73	7.71
+Greece	13.30	1.79	7.44
+Russia	13.21	1.76	7.50
+South Korea	13.16	1.75	7.52
+Armenia	13.14	1.73	7.59
+United Kingdom	13.13	1.78	7.38
+China	13.07	1.75	7.49
+Turkey	12.99	1.76	7.39
+Ireland	12.78	1.79	7.16
+Mongolia	12.77	1.70	7.50
+Romania	12.73	1.77	7.18
+Yemen	12.72	1.63	7.81
+Taiwan	12.60	1.73	7.28
+Pakistan	12.20	1.67	7.32
+Iran	11.95	1.75	6.84
+Indonesia	11.67	1.66	7.05
+Singapore	11.53	1.73	6.66
+Malaysia	11.49	1.68	6.82
+Vietnam	11.47	1.68	6.83
+Thailand	11.45	1.71	6.68
+Bangladesh	11.20	1.65	6.81
+Hong Kong	11.19	1.74	6.42
+Sri Lanka	10.89	1.67	6.50
+Philippines	10.85	1.65	6.59
+Burma	10.70	1.66	6.45
+Cambodia	10.04	1.65	6.09

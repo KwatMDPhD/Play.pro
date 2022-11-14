@@ -1,0 +1,70 @@
+# https://www.worlddata.info
+Rank	Country	Avg. income per year	Avg. income per month
+1	Monaco	186080	15507
+2	Bermuda	116540	9712
+3	Switzerland	90360	7530
+4	Norway	84090	7008
+5	Luxembourg	81110	6759
+6	Ireland	74520	6210
+7	United States	70430	5869
+8	Denmark	68110	5676
+9	Iceland	64410	5368
+10	Singapore	64010	5334
+11	Sweden	58890	4908
+12	Qatar	57120	4760
+13	Australia	56760	4730
+14	Netherlands	56370	4698
+15	Hong Kong	54450	4538
+16	Finland	53660	4472
+17	Austria	52210	4351
+18	Germany	51040	4253
+19	Belgium	50510	4209
+20	Israel	49560	4130
+21	Canada	48310	4026
+22	Macao	46730	3894
+23	United Kingdom	45380	3782
+24	New Zealand	45340	3778
+25	France	43880	3657
+26	Japan	42620	3552
+27	United Arab Emirates	39410	3284
+28	Italy	35710	2976
+29	South Korea	34980	2915
+30	Brunei	31510	2626
+31	Spain	29740	2478
+32	Portugal	23730	1978
+33	Saudi Arabia	22270	1856
+34	Greece	20140	1678
+35	Hungary	17740	1478
+36	Poland	16670	1389
+37	Romania	14170	1181
+38	China	11890	991
+39	Russia	11600	967
+40	Malaysia	10930	911
+41	Bulgaria	10720	893
+42	Argentina	10050	838
+43	Turkey	9830	819
+44	Mexico	9380	782
+45	Serbia	8440	703
+46	Brazil	7720	643
+47	Thailand	7260	605
+48	South Africa	6440	537
+49	Colombia	6160	513
+50	Ecuador	5930	494
+51	Indonesia	4140	345
+52	Ukraine	4120	343
+53	Sri Lanka	3820	318
+54	Philippines	3640	303
+55	Vietnam	3560	297
+56	Egypt	3510	293
+57	Iran	3370	281
+58	Morocco	3350	279
+59	Bangladesh	2620	218
+60	India	2170	181
+61	Nigeria	2100	175
+62	Timor-Leste	1940	162
+63	Cameroon	1590	133
+64	Cambodia	1550	129
+65	Pakistan	1500	125
+66	Nepal	1230	103
+67	Burma	1140	95
+68	Afghanistan	500	42
