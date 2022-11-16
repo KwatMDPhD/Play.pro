@@ -1,3 +1,13 @@
+## Data
+
+https://github.com/awesomedata
+
+https://www.springboard.com/blog/data-science/15-fun-datasets-to-analyze/
+
+https://www.kaggle.com
+
+https://apps.who.int/gho/data/node.home
+
 ---
 
 ## 👋 🤠 Howdy
