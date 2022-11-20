@@ -2,8 +2,6 @@ module Play
 
 end
 
-using BenchmarkTools
-
 using DataFrames
 
 using OnePiece

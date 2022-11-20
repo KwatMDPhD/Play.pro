@@ -4,8 +4,5 @@ authors = ["KwatMDPhD <kwat.me@icloud.com>"]
 version = "2022.10.12-refactoring"
 
 [deps]
-BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
 OnePiece = "1fe83854-81c0-42f7-afc9-71ba9af673ca"
-ProfileSVG = "132c30aa-f267-4189-9183-c8a63c7e05e6"
-ProfileView = "c46f51b8-102a-5cf2-8d2c-8597cb0e0da7"
