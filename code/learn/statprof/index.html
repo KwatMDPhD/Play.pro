@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv='Content-Type' content='text/html; charset=utf-8'></meta>
+    <link rel='stylesheet' type='text/css' href='statprofiler.css'></link>
+    <title>StatProfilerHTML - main report</title>
+  </head>
+  <body>
+    <div class='report-header'>
+      <div class='backlink'>
+        <a href='index.html'>Report index</a>
+      </div>
+      <div class='report-title'>
+        StatProfilerHTML.jl report
+      </div>
+      <div class='generated-on'>
+        Generated on Wed, 23 Nov 2022 17:32:51
+      </div>
+    </div>
+    <object data='flamegraph.svg' type='image/svg&#43;xml' style='display: block' id='flamegraph' width='90&#37;'></object>
+    <table>
+      <caption>Methods sorted by exclusive sample count</caption>
+      <thead>
+        <tr>
+          <th>Exclusive</th>
+          <th>Inclusive</th>
+          <th>Method</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>2 &#40;29 &#37;&#41;</td>
+          <td>2 &#40;29 &#37;&#41;</td>
+          <td>
+            <a href='boot.jl-1254e1400e8d28ef15bc534e2487f940c0077f63.html#L459'>Array</a>
+          </td>
+        </tr>
+        <tr>
+          <td>2 &#40;29 &#37;&#41;</td>
+          <td>4 &#40;57 &#37;&#41;</td>
+          <td>
+            <a href='inferenceresult.jl-c65c34b7ede2b41cc74e11113fbb011906b2bbe3.html#L94'>most_general_argtypes</a>
+          </td>
+        </tr>
+        <tr>
+          <td>1 &#40;14 &#37;&#41;</td>
+          <td>1 &#40;14 &#37;&#41;</td>
+          <td>
+            <a href='utilities.jl-aee6b38efa1b8ed6169f3503000ed732eed610c2.html#L134'>retrieve_code_info</a>
+          </td>
+        </tr>
+        <tr>
+          <td>1 &#40;14 &#37;&#41;</td>
+          <td>1 &#40;14 &#37;&#41;</td>
+          <td>
+            <a href='typeinfer.jl-34e473a5daef7d20fd9d93e37b6f024bf08f849f.html#L332'>maybe_compress_codeinfo</a>
+          </td>
+        </tr>
+        <tr>
+          <td>1 &#40;14 &#37;&#41;</td>
+          <td>1 &#40;14 &#37;&#41;</td>
+          <td>
+            <a href='typeinfer.jl-34e473a5daef7d20fd9d93e37b6f024bf08f849f.html#L535'>store_backedges</a>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>7 &#40;100 &#37;&#41;</td>
+          <td>
+            <a href='typeinfer.jl-34e473a5daef7d20fd9d93e37b6f024bf08f849f.html#L995'>typeinf_ext_toplevel</a>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>1 &#40;14 &#37;&#41;</td>
+          <td>
+            <a href='inlining.jl-9437e88749302e847dacd43e751957c6de4a9ac4.html#L1236'>handle_const_call&#33;</a>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>7 &#40;100 &#37;&#41;</td>
+          <td>
+            <a href='eventloop.jl-b25efcff4605068f2ec504cc11a702f09547b550.html#L0'>eventloop</a>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>1 &#40;14 &#37;&#41;</td>
+          <td>
+            <a href='inlining.jl-9437e88749302e847dacd43e751957c6de4a9ac4.html#L1357'>assemble_inline_todo&#33;</a>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>1 &#40;14 &#37;&#41;</td>
+          <td>
+            <a href='inlining.jl-9437e88749302e847dacd43e751957c6de4a9ac4.html#L1307'>handle_inf_result&#33;</a>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>1 &#40;14 &#37;&#41;</td>
+          <td>
+            <a href='inlining.jl-9437e88749302e847dacd43e751957c6de4a9ac4.html#L753'>resolve_todo</a>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>1 &#40;14 &#37;&#41;</td>
+          <td>
+            <a href='types.jl-edec666e9314d8ed68ff61a9b49213178b75ea78.html#L205'>InferenceResult</a>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>7 &#40;100 &#37;&#41;</td>
+          <td>
+            <a href='essentials.jl-4481454e4a85f2acc15a22876bd7e24de884aca7.html#L729'>#invokelatest#2</a>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>7 &#40;100 &#37;&#41;</td>
+          <td>
+            <a href='essentials.jl-4481454e4a85f2acc15a22876bd7e24de884aca7.html#L726'>invokelatest</a>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>7 &#40;100 &#37;&#41;</td>
+          <td>
+            <a href='typeinfer.jl-34e473a5daef7d20fd9d93e37b6f024bf08f849f.html#L996'>typeinf_ext_toplevel</a>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>1 &#40;14 &#37;&#41;</td>
+          <td>
+            <a href='abstractarray.jl-6dd69e673ed9f2eb0363d3c2da1bf5ae70a3191c.html#L795'>similar</a>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>1 &#40;14 &#37;&#41;</td>
+          <td>
+            <a href='typeinfer.jl-34e473a5daef7d20fd9d93e37b6f024bf08f849f.html#L377'>cache_result&#33;</a>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>29 &#40;414 &#37;&#41;</td>
+          <td>
+            <a href='typeinfer.jl-34e473a5daef7d20fd9d93e37b6f024bf08f849f.html#L205'>typeinf</a>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>1 &#40;14 &#37;&#41;</td>
+          <td>
+            <a href='inlining.jl-9437e88749302e847dacd43e751957c6de4a9ac4.html#L78'>ssa_inlining_pass&#33;</a>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>1 &#40;14 &#37;&#41;</td>
+          <td>
+            <a href='inferenceresult.jl-c65c34b7ede2b41cc74e11113fbb011906b2bbe3.html#L22'>matching_cache_argtypes</a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p>
+      <a href='methods.html'>All methods</a>
+    </p>
+
+    <table>
+      <caption>Files sorted by exclusive sample count</caption>
+      <thead>
+        <tr>
+          <th>Exclusive</th>
+          <th>Report</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>2 &#40;29 &#37;&#41;</td>
+          <td>
+            <a href='boot.jl-1254e1400e8d28ef15bc534e2487f940c0077f63.html'>/Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/base/boot.jl</a>
+          </td>
+        </tr>
+        <tr>
+          <td>2 &#40;29 &#37;&#41;</td>
+          <td>
+            <a href='inferenceresult.jl-c65c34b7ede2b41cc74e11113fbb011906b2bbe3.html'>/Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/base/compiler/inferenceresult.jl</a>
+          </td>
+        </tr>
+        <tr>
+          <td>2 &#40;29 &#37;&#41;</td>
+          <td>
+            <a href='typeinfer.jl-34e473a5daef7d20fd9d93e37b6f024bf08f849f.html'>/Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/base/compiler/typeinfer.jl</a>
+          </td>
+        </tr>
+        <tr>
+          <td>1 &#40;14 &#37;&#41;</td>
+          <td>
+            <a href='utilities.jl-aee6b38efa1b8ed6169f3503000ed732eed610c2.html'>/Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/base/compiler/utilities.jl</a>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <a href='array.jl-4623425176c5ae23a545d8059ee4698d4951fdd1.html'>/Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/base/array.jl</a>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <a href='loading.jl-d0dd653f68ee1afd7a87de707a5a4b6f59c6fce8.html'>/Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/base/loading.jl</a>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <a href='execute_request.jl-1cd5afb26da37efd0faa940a3ddb88873cf350af.html'>/Users/kwat/.julia/packages/IJulia/AQu2H/src/execute_request.jl</a>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <a href='inlining.jl-9437e88749302e847dacd43e751957c6de4a9ac4.html'>/Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/base/compiler/ssair/inlining.jl</a>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <a href='eventloop.jl-b25efcff4605068f2ec504cc11a702f09547b550.html'>/Users/kwat/.julia/packages/IJulia/AQu2H/src/eventloop.jl</a>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <a href='task.jl-420e11809b5e409afbc14c868869ed4d94cfd9ae.html'>/Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/base/task.jl</a>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <a href='tfuncs.jl-dd37ff528599bac698dae8c4534351a04d5a1a76.html'>/Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/base/compiler/tfuncs.jl</a>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <a href='legacy.jl-86b31d2e094401470c0962ca1b7b68e587ad9f0a.html'>/Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/base/compiler/ssair/legacy.jl</a>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <a href='types.jl-edec666e9314d8ed68ff61a9b49213178b75ea78.html'>/Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/base/compiler/types.jl</a>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <a href='abstractinterpretation.jl-db6b733dad9a1e5ec8f0c842230c53b0f7edb3a5.html'>/Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/base/compiler/abstractinterpretation.jl</a>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <a href='essentials.jl-4481454e4a85f2acc15a22876bd7e24de884aca7.html'>/Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/base/essentials.jl</a>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <a href='optimize.jl-b1a640ae81279f1224a9aae8f667acaa492649a3.html'>/Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/base/compiler/optimize.jl</a>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <a href='abstractarray.jl-6dd69e673ed9f2eb0363d3c2da1bf5ae70a3191c.html'>/Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/base/abstractarray.jl</a>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <a href='inferencestate.jl-0852f539bddf72c3c347b209ad44b0345f128490.html'>/Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/base/compiler/inferencestate.jl</a>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <a href='SoftGlobalScope.jl-dbc32c8f3e6dd42b57d613afe63f414996701636.html'>/Users/kwat/.julia/packages/SoftGlobalScope/u4UzH/src/SoftGlobalScope.jl</a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p>
+      <a href='files.html'>All files</a>
+    </p>
+  </body>
+</html>
+
