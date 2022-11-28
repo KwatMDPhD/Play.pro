@@ -4,11 +4,11 @@ end
 
 using DataFrames
 
-using OnePiece
+using BioinformaticsCore
 
 function tabulate(st)
 
-    OnePiece.DataFrame.make([
+    BioinformaticsCore.DataFrame.make([
         split(li, "\t") for li in split(st, "\n", keepempty = false) if !startswith(li, "#")
     ])
 
