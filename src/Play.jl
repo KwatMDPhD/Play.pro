@@ -4,11 +4,11 @@ end
 
 using DataFrames
 
-using BioinformaticsCore
+using BioLab
 
 function tabulate(st)
 
-    BioinformaticsCore.DataFrame.make([
+    BioLab.DataFrame.make([
         split(li, "\t") for li in split(st, "\n", keepempty = false) if !startswith(li, "#")
     ])
 
